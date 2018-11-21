@@ -1,6 +1,6 @@
 baseURL = "http://kurageruwm.github.io/"
 languageCode = "ja-jp"
-title = "My New Hugo Site"
+title = "y New Site"
 
 publishdir = "public"
 theme = "potato-dark"
